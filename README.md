@@ -6,6 +6,7 @@ Customizations included:
 * Wheel score modification
 * Coin toss modification to match requested settings
 * Plinko oscillation modification
+* Bear movement to avoid camera
 
 ![Example modification of scoreboard](screenshot.png "Example modification of scoreboard")
 
